@@ -35,11 +35,6 @@ A full-stack Flutter e-commerce application specializing in sneaker sales. This 
   <img src="screenshots/cart.png" width="220" alt="Shopping Cart">
 </p>
 
-
-
-
-(Add your screenshots to the `screenshots/` folder and they will appear here)
-
 ---
 
 ## 🛠 Tech Stack
