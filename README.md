@@ -30,8 +30,6 @@ A full-stack Flutter e-commerce application specializing in sneaker sales. This 
 <p align="center">
   <img src="screenshots/hot ones.png" width="220" alt="Hot Picks">
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/all shoes.png" width="220" alt="All Shoes">
-  &nbsp;&nbsp;&nbsp;
   <img src="screenshots/details.png" width="220" alt="Shoe Details">
 </p>
 
