@@ -31,12 +31,11 @@ A full-stack Flutter e-commerce application specializing in sneaker sales. This 
   <img src="screenshots/hot ones.png" width="220" alt="Hot Picks">
   &nbsp;&nbsp;&nbsp;
   <img src="screenshots/details.png" width="220" alt="Shoe Details">
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/cart.png" width="220" alt="Shopping Cart">
 </p>
 
-<p align="center">
-  <img src="screenshots/cart.png" width="220" alt="Shopping Cart">
-  &nbsp;&nbsp;&nbsp;
-</p>
+
 
 
 (Add your screenshots to the `screenshots/` folder and they will appear here)
