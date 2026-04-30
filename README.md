@@ -36,10 +36,8 @@ A full-stack Flutter e-commerce application specializing in sneaker sales. This 
 </p>
 
 <p align="center">
-  
-  &nbsp;&nbsp;&nbsp;
   <img src="screenshots/cart.png" width="220" alt="Shopping Cart">
-
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 
